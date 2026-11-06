@@ -9,4 +9,5 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Added
 
+- Add seeded synthetic tabular data generation from a declarative schema (ten column types, uniqueness, nullability, foreign keys, CSV and JSONL export) with typed errors.
 - Initial project structure from the factory utility template.
